@@ -1,0 +1,31 @@
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+
+.alert ul, .alert p, .warning ul, .warning p, .succsess ul, .succsess p, .top ul, .top p {
+  margin-right: 0;
+  margin-left: 0;
+  padding-bottom: 0;
+}
+
+ul > li {
+  list-style-type: none;
+}
+
+h2 + p {
+  border-top: 1px solid gray;
+}
+
+p ~ span {
+  opacity: 0.8;
+}/*# sourceMappingURL=style.css.map */
