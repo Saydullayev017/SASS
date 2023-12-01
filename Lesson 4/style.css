@@ -1,0 +1,16 @@
+.alert {
+  border: 1px solid black;
+}
+
+.section {
+  color: black;
+  background-color: green;
+}
+
+.content {
+  value: local value;
+}
+
+.sidebar {
+  value: global value;
+}/*# sourceMappingURL=style.css.map */
