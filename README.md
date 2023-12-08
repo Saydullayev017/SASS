@@ -1,6 +1,6 @@
 # SASS_Lessons
-learning SASS and Practice 
-![sass](scss.png)
+- learning SASS and Practice 
+![sass](sass-cover.jpg)
 #### Table of Lessons
 [Lesson 1 - SCSS Installing and run](/Lesson%201/README.md)<br>
 [Lesson 2 - SCSS Селекторы, Вложение, Списки выбораб, Селекторные комбинаторы](/Lesson%202/README.md)<br>
